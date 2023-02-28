@@ -2,7 +2,10 @@
 //  Your web app's Firebase configuration
 //----------------------------------------
 var firebaseConfig = {
-    //keys go here 
+ 
+
+
+ 
   
 };
 
